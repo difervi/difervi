@@ -48,7 +48,7 @@
 </html>
 ```
 ## Proyectos Destacados
-- 🚀 Mi Portafolio https://difervi.github.io/difervi/#proyectos: 
+- 🚀 Mi Portafolio https://difervi.github.io/difervi/
 - 🌐 Fast Food (en construccion): Estoy emocionado de compartir que estoy trabajando en una emocionante página web con un carrito de compras implementado con Shopify. Esta página está diseñada para ofrecer una experiencia de compra única y conveniente.
 
  ## Características Destacadas:
