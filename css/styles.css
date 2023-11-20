@@ -1,0 +1,357 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #8EF9F3;
+    color: #171738;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+header {
+    background: linear-gradient(to right, #171738, #593C8F);
+    color: #8EF9F3;
+    padding: 1em 0;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 1em;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 0;
+}
+/********container********/
+
+/* Estilos avanzados para el contenedor de la navegación */
+nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #171738;
+    padding: 1em 2em; /* Ajusta según sea necesario */
+    margin-top: 1em;
+    
+}
+
+nav .container ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+nav .container li {
+    margin-right: 1.5em; /* Ajusta según sea necesario */
+}
+
+nav .container a {
+    text-decoration: none;
+    color: #8EF9F3;
+    font-weight: bold;
+    font-size: 1.2em;
+    transition: color 0.3s;
+}
+
+nav .container a:hover {
+    color: #593C8F;
+}
+
+/* Añade un efecto de línea al pasar sobre los enlaces */
+nav .container a::before {
+    content: '';
+    display: block;
+    height: 3px;
+    width: 0;
+    background: #8EF9F3;
+    transition: width 0.3s;
+
+}
+
+nav .container a:hover::before {
+    width: 100%;
+}
+/* Estilos avanzados para el contenedor de la navegación */
+nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #171738;
+    padding: 1em 2em; /* Ajusta según sea necesario */
+}
+
+nav .container ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav .container li {
+    margin-right: 1.5em; /* Ajusta según sea necesario */
+}
+
+nav .container a {
+    text-decoration: none;
+    color: #8EF9F3;
+    font-weight: bold;
+    font-size: 1.2em;
+    transition: color 0.3s;
+}
+
+nav .container a:hover {
+    color: #593C8F;
+}
+
+/* Añade un efecto de línea al pasar sobre los enlaces */
+nav .container a::before {
+    content: '';
+    display: block;
+    height: 3px;
+    width: 0;
+    background: #8EF9F3;
+    transition: width 0.3s;
+}
+
+nav .container a:hover::before {
+    width: 100%;
+}
+
+.container h2{
+    font-size: 2.5em; /* Ajusta según sea necesario para el tamaño deseado */
+    color: #593C8F; /* Color del texto */
+    text-transform: uppercase; /* Convierte el texto a mayúsculas */
+    font-weight: bold; /* Peso de la fuente */
+    letter-spacing: 2px; /* Espaciado entre letras */
+    margin-bottom: 0.5em; /* Espaciado inferior */
+    text-align: center;
+    
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav li {
+    margin-right: 1em;
+}
+
+nav a {
+    text-decoration: none;
+    color: #171738;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #593C8F;
+}
+
+section {
+    margin: 2em 0;
+}
+
+.project-card {
+    background-color: #FFD9CE;
+    border: 1px solid #DB5461;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 1em;
+    transition: transform 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+}
+
+.project-card img {
+    max-width: 100%;
+    height: auto;
+    border-bottom: 1px solid #DB5461;
+}
+
+.project-card h3,
+.project-card p {
+    margin: 1em;
+    color: #171738;
+}
+
+.project-card a {
+    display: block;
+    background: linear-gradient(to right, #171738, #593C8F);
+    color: #8EF9F3;
+    text-align: center;
+    padding: 0.8em;
+    text-decoration: none;
+    transition: background 0.3s;
+}
+
+.project-card a:hover {
+    background: linear-gradient(to right, #593C8F, #171738);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer {
+    background: linear-gradient(to right, #171738, #593C8F);
+    color: #8EF9F3;
+    text-align: center;
+    padding: 1em 0;
+    width: 100%;
+    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+    position: relative;
+  
+}
+
+
+/********CONTACTO*************/
+
+#contacto.project-card {
+    background-color: #8EF9F3;
+    border: 1px solid #171738;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 1em;
+    transition: transform 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: relative; /* Añade posición relativa para posicionar elementos internos */
+}
+
+#contacto.project-card:hover {
+    transform: translateY(-5px);
+}
+
+#contacto h2 {
+    margin: 1em 0 0.5em;
+    color: #171738;
+    text-align: center;
+}
+
+#contacto .contact-info {
+    color: #171738;
+    padding: 1.5em;
+}
+
+#contacto .contact-info p {
+    margin: 0.5em 0;
+    font-size: 1.1em;
+}
+
+#contacto .contact-button {
+    display: inline-block;
+    background: #171738;
+    color: #8EF9F3;
+    text-align: center;
+    padding: 0.8em 1.5em;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background 0.3s;
+}
+
+#contacto .contact-button:hover {
+    background: #593C8F;
+}
+
+#contacto .contact-button::before {
+    content: '\2022'; /* Agrega un punto antes del botón */
+    color: #171738;
+    margin-right: 0.5em;
+}
+
+#contacto .contact-button::after {
+    content: '\2022'; /* Agrega un punto después del botón */
+    color: #171738;
+    margin-left: 0.5em;
+}
+
+#contacto .contact-button:hover::before,
+#contacto .contact-button:hover::after {
+    color: #593C8F;
+}
+
+
+/**********HABILIDADES**********/
+
+#habilidades {
+    background-color: #593C8F;
+    color: #FAE8EB;
+    padding: 2em;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+#habilidades h2 {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 1em;
+    color: #FFD9CE;
+}
+
+#habilidades ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#habilidades li {
+    margin: 0 1em;
+    padding: 1em;
+    background-color: #DB5461;
+    color: #8EF9F3;
+    border-radius: 8px;
+    transition: background 0.3s;
+    flex: 1;
+    text-align: center;
+}
+
+#habilidades li:hover {
+    background-color: #171738;
+    color: #FFD9CE;
+}
+
+/* Media Query para pantallas más pequeñas */
+/* Media Query para pantallas más pequeñas */
+@media screen and (max-width: 720px) {
+    #habilidades li {
+        flex: 0 0 100%; /* Establece un ancho del 100% en pantallas más pequeñas */
+        max-width: none; /* Elimina el ancho máximo en pantallas más pequeñas */
+        margin: 5px;
+        text-align: center;
+    }
+}
+
+
