@@ -10,7 +10,7 @@
 
 
 ## Habilidades
-html
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -46,7 +46,7 @@ html
   </ul>
 </body>
 </html>
-
+```
 ## Proyectos Destacados
 - 🚀 Mi Portafolio https://difervi.github.io/difervi/#proyectos: 
 - 🌐 Fast Food (en construccion): Estoy emocionado de compartir que estoy trabajando en una emocionante página web con un carrito de compras implementado con Shopify. Esta página está diseñada para ofrecer una experiencia de compra única y conveniente.
@@ -60,3 +60,11 @@ Estilo Personalizado con Sass: Para garantizar una hoja de estilo bien organizad
 
 ## Próximos Pasos:
 ¡Estoy trabajando diligentemente para completar y optimizar la página web! Pronto compartiré el enlace para que puedas explorar y disfrutar de la experiencia de compra.
+
+## Contacto
+¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Ponte en contacto conmigo a través de:
+- ✉️ [Correo Electrónico](difervif@gmail.com)
+- 💬 [LinkedIn](https://www.linkedin.com/in/diego-ojeda123/)
+
+
+
