@@ -5,7 +5,7 @@
 
 ## Acerca de mí
 - 🎓 Actualmente estudiante de Ingeniería en Informática.
-- 💼 Trabajo como desarrollador web en [Nombre de la Empresa].
+- 💼 Trabajo como desarrollador web Freelance.
 - 🚀 Siempre en busca de aprender nuevas tecnologías y mejorar mis habilidades.
 
 
@@ -48,6 +48,15 @@
 </html>
 
 ## Proyectos Destacados
-- 🚀 [Proyecto 1](enlace-al-proyecto-1): Una aplicación web increíble que [descripción breve].
-- 🌐 [Proyecto 2](enlace-al-proyecto-2): Desarrollé esta aplicación utilizando [tecnologías utilizadas].
+- 🚀 Mi Portafolio https://difervi.github.io/difervi/#proyectos: 
+- 🌐 Fast Food (en construccion): Estoy emocionado de compartir que estoy trabajando en una emocionante página web con un carrito de compras implementado con Shopify. Esta página está diseñada para ofrecer una experiencia de compra única y conveniente.
 
+ ## Características Destacadas:
+Diseño Atractivo: La página contará con un diseño moderno y atractivo para proporcionar una experiencia visualmente agradable a los usuarios.
+
+Carrito de Compras Integrado: Implementé un carrito de compras funcional utilizando Shopify, permitiendo a los usuarios agregar productos, revisar su selección y realizar compras de manera fácil y segura.
+
+Estilo Personalizado con Sass: Para garantizar una hoja de estilo bien organizada y mantenible, estoy utilizando Sass (Syntactically Awesome Stylesheets) para agregar ese toque personalizado a la apariencia de la página.
+
+## Próximos Pasos:
+¡Estoy trabajando diligentemente para completar y optimizar la página web! Pronto compartiré el enlace para que puedas explorar y disfrutar de la experiencia de compra.
