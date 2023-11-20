@@ -1,10 +1,10 @@
 # ¡Hola, soy Diego Ojeda! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web con experiencia en la creación de experiencias digitales asombrosas. Mi objetivo es combinar diseño y funcionalidad para ofrecer soluciones únicas y atractivas.
+¡Bienvenido a mi perfil de GitHub! 🚀 Estudiante de séptimo semestre de Ingeniería de Software con más de 4 años de experiencia en el sector tech. Destaco en soporte técnico, mantenimiento de equipos y administración de Active Directory. Complemento mi formación con cursos en Coderhouse, enfocándome actualmente en el front-end y con planes de incursionar en el desarrollo back-end. Mi pasión por la tecnología me impulsa a ser un desarrollador versátil y orientado a resultados, buscando oportunidades emocionantes para aplicar mis habilidades y contribuir al éxito de proyectos innovadores. 🌐💻
 
 
 ## Acerca de mí
-- 🎓 Actualmente estudiante de Ingeniería en Informática.
+- 🎓 Actualmente estudiante de Ingeniería de Software.
 - 💼 Trabajo como desarrollador web Freelance.
 - 🚀 Siempre en busca de aprender nuevas tecnologías y mejorar mis habilidades.
 
