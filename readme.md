@@ -14,8 +14,6 @@
 - SQL / MongoDB
 - Mockito
 - JUnit
-- Node.js
-- Express.js
 - Git
   
 
