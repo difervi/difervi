@@ -1,31 +1,8 @@
-# ¡Hola, soy Diego Ojeda! 👋
+👋 Hi, I’m Diego.
+Currently working as a technical support specialist at NetApp, focusing on graphical user interfaces (GUI), log analysis, HAR file reviews, security certificate validation, and network configuration checks.
 
-¡Bienvenido a mi perfil de GitHub! 🚀 Soy estudiante de Ingeniería de Software con una sólida experiencia en el ámbito tecnológico. Me especializo en el desarrollo back-end, aportando innovación y versatilidad a cada proyecto. Me destaco por mi liderazgo colaborativo y comunicación efectiva. Impulsado por la pasión por la tecnología, busco siempre transformar ideas en proyectos innovadores y exitosos. 💻
+🎓 I’m training as a DevOps engineer through EPAM’s program, developing skills in automation, infrastructure as code, and continuous integration practices.
 
-
-## Acerca de mí
-- 🎓 Actualmente estudiante de Ingeniería de Software.
-- 🚀 Siempre en busca de aprender nuevas tecnologías y mejorar mis habilidades.
-
-
-## Habilidades
-- Java
-- Spring Boot
-- SQL / MongoDB
-- Mockito
-- JUnit
-- Git
-  
-
-
-## Próximos Pasos:
-Estoy trabajando en subir proyectos con programación funcional y aprendiendo **Groovy** y **Scala** para expandir mis habilidades y conocimiento en distintos paradigmas de programación.
-
-
-## Contacto
-¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Ponte en contacto conmigo a través de:
-- ✉️ [Correo Electrónico](difervif@gmail.com)
-- 💬 [LinkedIn](https://www.linkedin.com/in/diego-ojeda123/)
-
+💻 Interested in growing professionally in systems administration, networking, and DevOps areas.
 
 
