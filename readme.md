@@ -1,8 +1,5 @@
-👋 Hi, I’m Diego.
-Currently working as a technical support specialist at NetApp, focusing on graphical user interfaces (GUI), log analysis, HAR file reviews, security certificate validation, and network configuration checks.
+Technical Support Engineer at NetApp, with experience in enterprise infrastructure and storage platforms using OnCommand Suite (ONTAP 9.x), including Unified Manager, System Manager, SMIS, API Services, and Data Protection.
 
-🎓 I’m training as a DevOps engineer through EPAM’s program, developing skills in automation, infrastructure as code, and continuous integration practices.
-
-💻 Interested in growing professionally in systems administration, networking, and DevOps areas.
-
+Working on technical escalations, troubleshooting critical systems, and technical documentation (KBs).
+Actively transitioning toward DevOps, strengthening skills in automation, APIs, Linux, and platform operations.
 
